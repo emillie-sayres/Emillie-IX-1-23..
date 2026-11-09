@@ -1,0 +1,101 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 15px;
+    background-color: #f7f7ff;
+}
+
+h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #30345c;
+}
+
+/* Destinasi Wisata */
+.destinasi {
+    background-color: #9b8af5;
+    padding: 10px;
+    margin-bottom: 12px;
+}
+
+.destinasi ol {
+    background-color: #6655c7;
+    padding: 10px;
+    margin: 0;
+    list-style-position: inside;
+}
+
+.destinasi li {
+    background-color: #dcd6ff;
+    padding: 7px;
+    margin: 3px 0;
+}
+
+.destinasi li:nth-child(4) {
+    background-color: #ffd166;
+}
+
+/* Aktivitas Liburan */
+.aktivitas {
+    background-color: #75c9b7;
+    padding: 10px;
+    margin-bottom: 12px;
+}
+
+.aktivitas ul {
+    padding-left: 25px;
+    margin: 0;
+    list-style-type: square;
+}
+
+.aktivitas li {
+    background-color: #d5f5e8;
+    padding: 7px;
+    margin: 3px 0;
+}
+
+/* Barang Bawaan */
+.barang {
+    background-color: #78a9e8;
+    padding: 10px;
+    margin-bottom: 12px;
+}
+
+.barang ul {
+    padding-left: 25px;
+    margin: 0;
+    list-style-type: circle;
+}
+
+.barang li {
+    background-color: #dcecff;
+    padding: 7px;
+    margin: 3px 0;
+}
+
+/* Travel Icons */
+.icons {
+    background-color: #ffc978;
+    padding: 10px;
+}
+
+.icons ul {
+    padding-left: 25px;
+    margin: 0;
+    list-style-type: square;
+}
+
+.icons li {
+    background-color: #fff1b8;
+    padding: 7px;
+    margin: 3px 0;
+}
+
+.icons i {
+    color: #57449b;
+    width: 25px;
+}
+
+li:hover {
+    background-color: white;
+}

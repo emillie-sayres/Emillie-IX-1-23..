@@ -1,0 +1,31 @@
+body {
+    background-color: white;
+    font-family: Georgia, serif;
+}
+
+table {
+    width: 530px;
+    height: 450px;
+    border-collapse: collapse;
+    table-layout: fixed;
+    margin: 30px auto;
+    border: 6px solid red;
+}
+
+td {
+    border: 6px solid #ff9e9e;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 48px;
+    padding: 0;
+}
+
+.blue {
+    background-color: #9b9bff;
+    color: lab(95.36% -13.79 47.05);
+}
+
+.pink {
+    background-color: rgb(255, 139, 201);
+    color: #9393ff;
+}
